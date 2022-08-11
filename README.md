@@ -1,2 +1,4 @@
 # awesome-macos-apps
-Curated list of recommended macOS apps
+
+Inspired by @guyzyl/awesome-macos-apps, I'd love to share my set of tools and apps I actually use :)
+
