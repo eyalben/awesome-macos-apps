@@ -7,7 +7,6 @@ Inspired by [@guyzyl/awesome-macos-apps](https://github.com/guyzyl/awesome-macos
 - [Amphetamine](https://apps.apple.com/il/app/amphetamine/id937984704?mt=12/) - Prevents your mac from sleeping
 - [App Cleaner](https://freemacsoft.net/appcleaner/) - The missing uninstaller for mac
 - [Cyberduck](https://cyberduck.io/) - FTP/SFTP Client
-- [iTerm 2](https://iterm2.com/) - Terminal alternative
 - [Rectangle](https://rectangleapp.com/) - Window manager with keyboard shortcuts (use `Spectacle` flavor shortcuts)
 - [The Unarchiver](https://theunarchiver.com/) - Unarchives all formats
 
@@ -34,8 +33,10 @@ Inspired by [@guyzyl/awesome-macos-apps](https://github.com/guyzyl/awesome-macos
 - [Tailscale](https://tailscale.com/) - Create a VPN between your computers and phones, zero config, serverless.
 - [Visual Studio Code](https://code.visualstudio.com/) - IDE, The modern Emacs compromise 🙈
 
-## ZSH
+## Shell
 
+- [iTerm 2](https://iterm2.com/) - Terminal alternative
+- [Fig](https://fig.io/) - Amazing autocomplete and workflows for terminal
 - [Oh My ZSH](https://ohmyz.sh/) - The best plugins and themes bundle for ZSH
   - [powerlevel10k/powerlevel10k](https://github.com/romkatv/powerlevel10k) - ZSH Theme
   - [git](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) - Adds git aliases
