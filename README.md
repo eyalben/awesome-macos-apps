@@ -31,6 +31,7 @@ Inspired by [@guyzyl/awesome-macos-apps](https://github.com/guyzyl/awesome-macos
 
 - [GitHub Desktop](https://desktop.github.com/) - Git client app for GitHub
 - [Insomnia](https://insomnia.rest/products/insomnia) - REST API Client
+- [Proxyman](https://proxyman.io/) - Packet sniffer with builtin SSL Proxy
 - [Tailscale](https://tailscale.com/) - Create a VPN between your computers and phones, zero config, serverless.
 - [Visual Studio Code](https://code.visualstudio.com/) - IDE, The modern Emacs compromise 🙈
 
