@@ -10,6 +10,8 @@ Inspired by [@guyzyl/awesome-macos-apps](https://github.com/guyzyl/awesome-macos
 - [Rectangle](https://rectangleapp.com/) - Window manager with keyboard shortcuts (use `Spectacle` flavor shortcuts)
 - [Stats](https://github.com/exelban/stats/) - Awesome menubar stats for CPU utilization, temperature and more....
 - [The Unarchiver](https://theunarchiver.com/) - Unarchives all formats
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control external monitor brightness
+- 
 
 
 ## Media
