@@ -11,7 +11,7 @@ Inspired by [@guyzyl/awesome-macos-apps](https://github.com/guyzyl/awesome-macos
 - [Stats](https://github.com/exelban/stats/) - Awesome menubar stats for CPU utilization, temperature and more....
 - [The Unarchiver](https://theunarchiver.com/) - Unarchives all formats
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control external monitor brightness
-- 
+- [Hidden Bar](https://github.com/dwarvesf/hidden) - Hide menu bar items
 
 
 ## Media
