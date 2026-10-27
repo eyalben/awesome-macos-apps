@@ -8,6 +8,7 @@ Inspired by [@guyzyl/awesome-macos-apps](https://github.com/guyzyl/awesome-macos
 - [Handy](https://handy.computer/) - Voice to Text using local models
 - [Amphetamine](https://apps.apple.com/il/app/amphetamine/id937984704?mt=12/) - Prevents your mac from sleeping
 - [App Cleaner](https://freemacsoft.net/appcleaner/) - The missing uninstaller for mac
+- [Command Reopen](https://commandreopen.com/) - Makes Cmd+Tab restore minimized and closed windows with zero permissions ([GitHub](https://github.com/Feng6611/mac-command-reopen))
 - [Cyberduck](https://cyberduck.io/) - FTP/SFTP Client
 - [Rectangle](https://rectangleapp.com/) - Window manager with keyboard shortcuts (use `Spectacle` flavor shortcuts)
 - [Stats](https://github.com/exelban/stats/) - Awesome menubar stats for CPU utilization, temperature and more....
