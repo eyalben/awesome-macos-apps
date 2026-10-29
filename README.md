@@ -13,6 +13,7 @@ Inspired by [@guyzyl/awesome-macos-apps](https://github.com/guyzyl/awesome-macos
 - [Stats](https://github.com/exelban/stats/) - Awesome menubar stats for CPU utilization, temperature and more....
 - [The Unarchiver](https://theunarchiver.com/) - Unarchives all formats
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control external monitor brightness
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - Restores window positions and Spaces when you reconnect external displays; also syncs brightness and USB-C arrangement presets
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - Hide menu bar items
 
 
